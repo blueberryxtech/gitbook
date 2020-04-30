@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Hello!](README.md)
-* [Build software better, together](untitled.md)
+* [Welcome!](README.md)
+* [A Projection Only You Can See](personalprojection.md)
 
