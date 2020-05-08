@@ -1,6 +1,6 @@
 # Real-time Games
 
- An adjacent area to fNIRS sensing is HEG or Hemoencephalography, which provides frontal lobe measurement of changes in blood flow. There are few companies exploring brain sensing devices with this including [HEGduino](https://www.hegalpha.com/) and [Mendhi](https://www.kickstarter.com/projects/mendi/mendi-natural-brain-training-anytime-anywhere-anyone)
+ An adjacent area to fNIRS sensing is HEG or Hemoencephalography, which provides frontal lobe measurement of changes in blood flow. There are few companies exploring brain sensing devices with this including [HEGduino](https://www.hegalpha.com/) and [Mendi](https://www.kickstarter.com/projects/mendi/mendi-natural-brain-training-anytime-anywhere-anyone)
 
  The main pretence here is training your brain to control the amount of oxygen flowing in and out of the frontal lobe region to help build the mind as a muscle. Simple visual and interactive games have been shown to cause a positive effect here when conducted 2-3 times per week. Think of it like going to gym and conducting exercises for your mind.
 
