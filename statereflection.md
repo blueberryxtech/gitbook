@@ -9,3 +9,9 @@ To adjust this we are exploring software color transitions or more calming color
 For example a slow transition from blue to light blue and back again. 
 
 ![Light Cues](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/lightcues.png?v=1589633963)
+
+Looking at a stop light affect we are comparing a simple:
+
+Red: too much oxygen
+Green: right amount
+Blue: too little
