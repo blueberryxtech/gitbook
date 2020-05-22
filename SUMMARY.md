@@ -6,6 +6,7 @@
 * [Real-time Games](realtimegames.md)
 * [State of Mind Reflection](statereflection.md)
 * [Comparing the Mind and Heart](mindandheart.md)
+* [EEG and fNIRS](bciserver.md)
 
 * [www.blueberryx.com](https://www.blueberryx.com/)
 
