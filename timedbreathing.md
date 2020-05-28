@@ -22,4 +22,6 @@ We found that it took on average 60 seconds to return to a stable heart rate wit
 
 [download the data here](https://docs.google.com/spreadsheets/d/1b_weB9dAVtj-P6SVixAp9HRI6phoo1FRyWxRXIKpO5c/edit?usp=sharing)
 
+![tinting feedback](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/inhaletint.gif?v=1590697608)
+
 More to come here soon!
