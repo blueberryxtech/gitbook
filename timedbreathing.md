@@ -18,4 +18,7 @@ We found that it took on average 60 seconds to return to a stable heart rate wit
 
 [This research paper outlines box breathing or Diaphragmatic Breathing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139518/)
 
+![Example Data With Guided Breathing](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/exampledataset.png?v=1590689506)
+[download it here](https://docs.google.com/spreadsheets/d/1b_weB9dAVtj-P6SVixAp9HRI6phoo1FRyWxRXIKpO5c/edit?usp=sharing)
+
 More to come here soon!
