@@ -8,4 +8,4 @@
 
  As part of a simple feedback loop; we have started to test the affect of conscious breathing with a single colour feedback loop; as you take deeper and more consistent breathes the colour changes. Our current concept is to see how many times a day a person can get the LED to change colour and what amount if we set two levels.
 
-![LED feedback](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/oxygen-states.png?v=1588698046)
+![LED feedback](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/LED-feedback.png?v=1590681206)
