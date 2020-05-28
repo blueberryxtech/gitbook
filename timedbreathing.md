@@ -1,4 +1,4 @@
-# Matching Your Breathing Tempo
+# Finding Your Breathing Tempo
 
 This past week we started to explore how the blinking of an etint lense paired with mental load and heart rate can be used as a guiding step for a person to adjust their breathing rate.
 

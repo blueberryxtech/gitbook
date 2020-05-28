@@ -3,7 +3,7 @@
 * [Welcome!](README.md)
 * [A Projection Only You Can See](personalprojection.md)
 * [Deep Breathing Feedback](breathingfeedback.md)
-* [Finding Your Breathing Tempo](timedbreahting.md)
+* [Finding Your Breathing Tempo](timedbreathing.md)
 * [Real-time Games](realtimegames.md)
 * [State of Mind Reflection](statereflection.md)
 * [Comparing the Mind and Heart](mindandheart.md)
