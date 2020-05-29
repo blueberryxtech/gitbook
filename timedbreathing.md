@@ -24,4 +24,8 @@ We found that it took on average 60 seconds to return to a stable heart rate wit
 
 ![tinting feedback](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/inhaletint.gif?v=1590697608)
 
+Preliminary notes are:
+- 5-10 bpm drop in heart rate post performing the 4 second timed breathing technique
+- Anecdotal feedback of "it made me feel better"
+
 More to come here soon!
