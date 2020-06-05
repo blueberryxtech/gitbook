@@ -1,6 +1,6 @@
 # Finding Your Breathing Tempo
 
-This past week we started to explore how the blinking of an etint lense paired with mental load and heart rate can be used as a guiding step for a person to adjust their breathing rate.
+This past week we started to explore how the blinking of an etint lense paired with mental load and heart rate can be used as a guiding feedback for a person to adjust their breathing rate.
 
 The feedback mechanism for taking a deep breathe and breathing out was tinting the glasses on and off in a step function. The initial experiment was as follows:
 
