@@ -7,7 +7,13 @@
 * [Real-time Games](realtimegames.md)
 * [State of Mind Reflection](statereflection.md)
 * [Comparing the Mind and Heart](mindandheart.md)
+* [Finding Your Tempo](yourtempo.md)
+
+# Research
+
 * [EEG and fNIRS](bciserver.md)
+
+# Links
 
 * [www.blueberryx.com](https://www.blueberryx.com/)
 
