@@ -28,4 +28,12 @@ Preliminary notes are:
 - 5-10 bpm drop in heart rate post performing the 4 second timed breathing technique
 - Anecdotal feedback of "it made me feel better"
 
-More to come here soon!
+
+The next area we explored was to determine what happens to our brain activity oxygenation during the task being presented to a person for the first time. The result was interesting! We found that for a person the first time they try the box breathing method the amount of oxygen increased during the period of guided breathing and a minimized change in oxygen from before and after the technique.
+
+![Box Breathing vs. Normal Breathing](https://cdn.shopify.com/s/files/1/0304/7905/7027/files/box-breathing.png?v=1592481922)
+To guide the individual we presented the breathing timing on a laptop computer screen in a dark room.
+
+On the three people we tested this on the result was consistent. On average there was a 4% result change in before and after the box breathing technique; where as there was a 11% change when breathing normally without any guided presentation on how to breathe.
+
+The regional brain activity increased during the period of timed breathing. Our next test will be to see what the affect is if presented the guided technique without an high attention guidance presented on a computer screen.
