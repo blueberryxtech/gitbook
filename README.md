@@ -4,7 +4,7 @@ Here you will find live updates on how we bring Blueberry to market, including e
 
 We see a world where information is passive and automatic. We are aiming to enable people to automatically adapt to their environment and mental states to continuously improve by 1% month over month. You can use Blueberry’s mobile app to gain insights on and suggestions for improving your habits to reach your own peak performance. 
 
-Blueberry utilizes the same type of technology designed to sense mental effort in medical professionals and fighter pilots in the field and translates it into everyday insight into productivity. To learn about the research on fNIRS, you can click here to learn about mental workload, and click here for information about language activation.
+Blueberry utilizes the same type of technology designed to sense mental effort in medical professionals and fighter pilots in the field and translates it into everyday insight into productivity. To learn about the research on fNIRS, you can ![click here to learn about mental workload](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893598/), and ![click here for information about language activation](https://www.sciencedirect.com/science/article/abs/pii/S0028393217303305).
 
 We designed Blueberry with the goal of helping people who struggle with mental effort in the workplace by creating a tool for better understanding how your mind activates during the day.
 
